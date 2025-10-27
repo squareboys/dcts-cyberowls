@@ -3,8 +3,6 @@
 ################################  
 
 # COMPLETE FORENSICS QUESTIONS FIRST  
-Forensics Question 1    
-Forensics Question 2  
 
 Create users that need to be made:  
     ```sudo useradd <username>```  
@@ -113,5 +111,6 @@ Secure ports:
    **Check for non-loopback ports**
 
 // I'll add more if I can think of anything.  
+
 
 
