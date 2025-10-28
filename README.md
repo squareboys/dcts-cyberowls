@@ -5,7 +5,6 @@ Created for CP-18 (2025-26)
 
 TODO:
 
-Add Linux objectives  
 Add Windows objectives  
 Add Windows Server objectives  
 Add scripts?  
